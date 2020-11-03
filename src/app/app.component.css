@@ -1,0 +1,29 @@
+
+td{
+    background-color: skyblue;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    
+    background-color: tan;
+}
+th{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+button:hover{
+    background-color: chartreuse;
+    height: 40px;
+    width: 50px;
+}
+input{
+    height: 40px;
+    width: 400px;
+    background-color: whitesmoke;
+}
+todos{
+    text-align: center;
+}
